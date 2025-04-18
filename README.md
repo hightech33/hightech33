@@ -1,55 +1,97 @@
-# 👨‍💻 Senior Full-Stack Developer  
-_Building Scalable Web Applications with Modern Tech_
+# 🚀 **Senior Full-Stack | AI & Automation | Blockchain Engineer**
+
+**Crafting Scalable Web Apps, Cutting-Edge AI Systems, and High-Performance Blockchain Solutions**
 
 ---
 
-## 🧰 **Core Skills**
+## 👨‍💻 **About Me**
 
-- 🎨 **Frontend**: _React, Next.js, Vue, TypeScript, Tailwind CSS_  
-- 🧠 **Backend**: _Node.js, Express, NestJS, Python (Django)_  
-- 🗃️ **Databases**: _PostgreSQL, MongoDB, Redis_  
-- ☁️ **DevOps**: _AWS, Docker, CI/CD Pipelines_  
+I'm a **Senior Full-Stack Developer**, **AI/Automation Specialist**, and **Blockchain Engineer** with a proven track record of delivering **robust, scalable, and high-impact solutions** across industries.
 
----
-
-## 🚀 **What I Deliver**
-
-- ⚡ **High-performance** web applications  
-- 🧼 **Clean, maintainable** code architecture  
-- 📱 **Responsive & accessible** user interfaces  
-- 🔗 **Scalable backend** API systems  
-- 🔐 **Secure authentication** mechanisms  
-- 🧠 **Optimized database** performance  
+With hands-on expertise in **modern web development**, **enterprise-grade AI systems**, and **high-frequency blockchain trading infrastructure**, I bring a **multi-disciplinary edge** to every project I build.
 
 ---
 
-## 📌 **Recent Projects**
+## 🌐 **Full-Stack Web Development**
 
-- 🛍️ **E-commerce Platform**  
-  _Handled over 10,000+ daily users with optimized performance and seamless UX._
+**🧰 Core Tech Stack:**
+- 💻 **Frontend:** React, Next.js, Vue, TypeScript, TailwindCSS
+- 🛠️ **Backend:** Node.js, Express, NestJS, Python (Django)
+- 🗄️ **Databases:** PostgreSQL, MongoDB, Redis
+- ☁️ **DevOps:** AWS, Docker, CI/CD (GitHub Actions, Jenkins)
 
-- 🧑‍💼 **SaaS Application**  
-  _Real-time collaboration features with robust role-based access and socket integration._
+**🚀 What I Deliver:**
+- ⚡ High-performance, production-ready web applications
+- 🧼 Clean, maintainable, and scalable code architecture
+- 📱 Responsive, accessible, and mobile-first design
+- 🔐 Secure authentication & role-based access
+- 📈 Optimized database queries & caching strategies
 
-- 📊 **Internal Dashboard**  
-  _Built for data visualization and analytics with live reporting and filtering._
+**📌 Recent Projects:**
+- 🛒 E-commerce platform handling **10,000+ daily users**
+- 💬 SaaS app with **real-time collaboration**
+- 📊 Internal dashboard for **live data visualization**
+
+**🧪 Development Principles:**
+- ✅ Test-driven development (TDD)
+- 🚀 Performance & UX optimization
+- 🧩 Component-based architecture
+- 📖 Well-documented codebases
 
 ---
 
-## 🧭 **Development Principles**
+## 🤖 **AI & Automation Specialist**
 
-- ✅ **Test-Driven Development (TDD)**  
-- 🚀 **Performance Optimization**  
-- 📱 **Mobile-First, Responsive Design**  
-- 📝 **Documentation-Focused Workflow**  
+**🧠 Core Stack:**
+- 🧬 **LLMs:** OpenAI GPT-4/3.5, PaLM 2, LangChain, LoRA/PEFT Fine-Tuning
+- 🧾 **ChatBot Frameworks:** Rasa, Dialogflow, AutoGPT, BabyAGI, MS Bot Framework
+- 🔁 **Automation:** Make.com, n8n, REST/GraphQL APIs, Visa/Betting Bots
+- 🧮 **Data Engineering:** PySpark, Pandas, Scrapy, Playwright, OCR (Tesseract)
+- 💻 **Languages:** Python, JavaScript/TypeScript
+
+**💡 Expertise:**
+- 💬 Multitenant **Enterprise ChatBots** (RAG w/ Pinecone/FAISS)
+- 🧪 LLM Optimization: Prompt Engineering, BLEU/ROUGE, Quantization
+- 🤖 AI-Driven Automation: **90% reduction** in manual processes
+- 🖼️ Multimodal AI: CLIP/YOLOv8 for image-to-text agents
+- ⚙️ **Scalable Data Pipelines** (TB-scale Spark streaming)
+
+**🔐 Differentiators:**
+- 🛡️ Adversarial testing & jailbreak mitigation
+- 🧰 Low-code integration (Google Sheets as backend)
+- 🕵️‍♂️ Anti-detection scraping with rotating proxies/headless browsers
 
 ---
 
-## 📫 **Let's Connect**
+## 🧱 **Senior Blockchain Engineer**
 
-I'm always open to collaborating on exciting and impactful projects.  
-Feel free to reach out or connect with me on [LinkedIn](#) or [GitHub](#)!
+**🔗 Core Skills:**
+- 🦀 **Languages:** Rust (Solana), Solidity/Yul (EVM)
+- 🛠️ **Smart Contracts:** SPL, Token-2022, ERC-404, Flash Loans
+- ⚡ **Chains:** Solana (Anchor, Jito), Ethereum (Geth, Flashbots, EigenLayer)
+
+**🧠 Expertise:**
+- 📈 High-frequency trading bots with **<1ms latency**
+- 🏦 Private RPCs, Jito Bundles, MEV arbitrage/sandwich attacks
+- 🧠 Audited & deployed **50+ contracts** — *zero hacks*
+- 💸 $2M+ profit from optimized arbitrage and flash loan exploits
+
+**📊 Platforms & Tools:**
+- 🧮 Jupiter, Raydium, Uniswap, PancakeSwap
+- 🧱 Custom validator nodes and archival indexing
 
 ---
 
-> _"Code is not just about solving problems, it's about creating experiences."_  
+## 📫 **Let’s Connect!**
+
+💼 I'm open to **freelance**, **full-time**, or **consulting opportunities**  
+🌎 Feel free to reach out to collaborate on **next-gen tech** projects!
+
+- 📧 Email: *[your-email@example.com]*
+- 🌐 Portfolio: *[your-website.com]*
+- 💼 LinkedIn: *[linkedin.com/in/yourhandle]*
+- 🧑‍💻 GitHub: *[@your-github-handle]*
+
+---
+
+> _“Great software is not built by chance — it’s architected with precision, creativity, and a relentless focus on impact.”_
