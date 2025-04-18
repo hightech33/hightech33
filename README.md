@@ -87,10 +87,8 @@ With hands-on expertise in **modern web development**, **enterprise-grade AI sys
 💼 I'm open to **freelance**, **full-time**, or **consulting opportunities**  
 🌎 Feel free to reach out to collaborate on **next-gen tech** projects!
 
-- 📧 Email: *[your-email@example.com]*
-- 🌐 Portfolio: *[your-website.com]*
-- 💼 LinkedIn: *[linkedin.com/in/yourhandle]*
-- 🧑‍💻 GitHub: *[@your-github-handle]*
+- 📧 Email: *[namitosekine@gmail.com]*
+- 🧑‍💻 GitHub: *[@NamitoSekine]*
 
 ---
 
