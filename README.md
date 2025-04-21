@@ -87,9 +87,6 @@ With hands-on expertise in **modern web development**, **enterprise-grade AI sys
 💼 I'm open to **freelance**, **full-time**, or **consulting opportunities**  
 🌎 Feel free to reach out to collaborate on **next-gen tech** projects!
 
-- 📧 Email: *[namitosekine@gmail.com]*
-- 🧑‍💻 GitHub: *[@NamitoSekine]*
-
 ---
 
 > _“Great software is not built by chance — it’s architected with precision, creativity, and a relentless focus on impact.”_
